@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Gascogne';
-  src: url('Gascogne-Serial-Regular.woff2') format('woff2'),
-       url('Gascogne-Serial-Regular.woff') format('woff');
+  src: url('https://manos-hq.github.io/custom-font-hosting/Gascogne-Serial-Regular.woff2') format('woff2'),
+       url('https://manos-hq.github.io/custom-font-hosting/Gascogne-Serial-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
