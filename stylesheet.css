@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Work Sans';
-    src: url('WorkSans-Regular.woff2') format('woff2'),
-        url('WorkSans-Regular.woff') format('woff');
+    font-family: 'DejaVu Serif';
+    src: url('DejaVuSerif.woff2') format('woff2'),
+        url('DejaVuSerif.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
